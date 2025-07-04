@@ -67,12 +67,12 @@ Open `tmnist-malini-janaki-sankaran.ipynb` in Jupyter Notebook or Colab.
 ## Requirements
 
 The following Python libraries are required (as used in the project notebook):
-`numpy
-pandas
-matplotlib
-scikit-learn
-tensorflow
-keras`
+- numpy
+- pandas
+- matplotlib
+- scikit-learn
+- tensorflow
+- keras
 
 ## Example Prediction Visualization
 
